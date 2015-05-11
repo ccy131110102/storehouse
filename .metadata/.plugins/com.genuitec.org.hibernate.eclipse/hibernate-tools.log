@@ -1,0 +1,16 @@
+2015-05-11 23:35:07,180 0      [       Worker-8] WARN  .hibernate.tool.hbm2x.template  - Velocimacro : VM addition rejected : generatePreciseFunctions : inline not allowed to replace existing VM
+2015-05-11 23:35:07,273 93     [       Worker-8] WARN  .hibernate.tool.hbm2x.template  - Velocimacro : VM addition rejected : logInfo : inline not allowed to replace existing VM
+2015-05-11 23:35:07,274 94     [       Worker-8] WARN  .hibernate.tool.hbm2x.template  - Velocimacro : VM addition rejected : logError : inline not allowed to replace existing VM
+2015-05-11 23:35:07,275 95     [       Worker-8] WARN  .hibernate.tool.hbm2x.template  - Velocimacro : VM addition rejected : executeQuery : inline not allowed to replace existing VM
+2015-05-11 23:35:07,286 106    [       Worker-8] WARN  .hibernate.tool.hbm2x.template  - Velocimacro : VM addition rejected : generatePreciseFunctions : inline not allowed to replace existing VM
+2015-05-11 23:35:07,286 106    [       Worker-8] WARN  .hibernate.tool.hbm2x.template  - Velocimacro : VM addition rejected : logInfo : inline not allowed to replace existing VM
+2015-05-11 23:35:07,286 106    [       Worker-8] WARN  .hibernate.tool.hbm2x.template  - Velocimacro : VM addition rejected : logError : inline not allowed to replace existing VM
+2015-05-11 23:35:07,288 108    [       Worker-8] WARN  .hibernate.tool.hbm2x.template  - Velocimacro : VM addition rejected : executeQuery : inline not allowed to replace existing VM
+2015-05-11 23:35:07,301 121    [       Worker-8] WARN  .hibernate.tool.hbm2x.template  - Velocimacro : VM addition rejected : generatePreciseFunctions : inline not allowed to replace existing VM
+2015-05-11 23:35:07,301 121    [       Worker-8] WARN  .hibernate.tool.hbm2x.template  - Velocimacro : VM addition rejected : logInfo : inline not allowed to replace existing VM
+2015-05-11 23:35:07,302 122    [       Worker-8] WARN  .hibernate.tool.hbm2x.template  - Velocimacro : VM addition rejected : logError : inline not allowed to replace existing VM
+2015-05-11 23:35:07,303 123    [       Worker-8] WARN  .hibernate.tool.hbm2x.template  - Velocimacro : VM addition rejected : executeQuery : inline not allowed to replace existing VM
+2015-05-11 23:35:07,316 136    [       Worker-8] WARN  .hibernate.tool.hbm2x.template  - Velocimacro : VM addition rejected : generatePreciseFunctions : inline not allowed to replace existing VM
+2015-05-11 23:35:07,316 136    [       Worker-8] WARN  .hibernate.tool.hbm2x.template  - Velocimacro : VM addition rejected : logInfo : inline not allowed to replace existing VM
+2015-05-11 23:35:07,316 136    [       Worker-8] WARN  .hibernate.tool.hbm2x.template  - Velocimacro : VM addition rejected : logError : inline not allowed to replace existing VM
+2015-05-11 23:35:07,318 138    [       Worker-8] WARN  .hibernate.tool.hbm2x.template  - Velocimacro : VM addition rejected : executeQuery : inline not allowed to replace existing VM
